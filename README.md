@@ -1,4 +1,4 @@
-# pyvmomi-samples #
+# python-samples #
 get vm name using pyhton script
 
 **Find By IP**
